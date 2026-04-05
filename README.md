@@ -20,19 +20,6 @@ I consistently practice Data Structures and Algorithms to improve problem-solvin
 
 ---
 
-## 📁 Topics Covered
-- Arrays
-- Strings
-- Linked List
-- Stack & Queue
-- Trees
-- Graphs
-- Dynamic Programming
-- Binary Search
-- Recursion
-
----
-
 ## 🎯 Goal
 To build strong problem-solving skills and crack top tech internships.
 
