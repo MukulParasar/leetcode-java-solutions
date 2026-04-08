@@ -44,6 +44,7 @@ https://leetcode.com/u/mukul_parashar/
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
 |  |
@@ -57,4 +58,8 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
