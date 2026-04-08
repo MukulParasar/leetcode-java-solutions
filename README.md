@@ -38,9 +38,23 @@ https://leetcode.com/u/mukul_parashar/
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
