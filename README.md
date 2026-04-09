@@ -73,6 +73,7 @@ https://leetcode.com/u/mukul_parashar/
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0009-palindrome-number) |
 | [0441-arranging-coins](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0441-arranging-coins) |
 ## Matrix
 |  |
