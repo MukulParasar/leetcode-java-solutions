@@ -40,6 +40,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Interactive
 |  |
 | ------- |
