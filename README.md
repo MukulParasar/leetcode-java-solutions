@@ -49,6 +49,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0278-first-bad-version](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0441-arranging-coins) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +67,8 @@ https://leetcode.com/u/mukul_parashar/
 | ------- |
 | [0278-first-bad-version](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
