@@ -45,6 +45,7 @@ https://leetcode.com/u/mukul_parashar/
 | [1672-richest-customer-wealth](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1833-maximum-ice-cream-bars](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -112,4 +114,12 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
