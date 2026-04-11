@@ -19,18 +19,27 @@ class Solution {
                 count++;
                 j++;
             }
+            if (ind1El != -1 && ind2El != -1) {
+                break;
+            }
         }
         while (i < n1) {
             if (count == ind1) ind1El = nums1[i];
             if (count == ind2) ind2El = nums1[i];
             count++;
             i++;
+            if (ind1El != -1 && ind2El != -1) {
+                break;
+            }
         }
         while (j < n2) {
             if (count == ind1) ind1El = nums2[j];
             if (count == ind2) ind2El = nums2[j];
             count++;
             j++;
+            if (ind1El != -1 && ind2El != -1) {
+                break;
+            }
         }
         if (n % 2 == 1) {
             return ind2El;
