@@ -36,6 +36,7 @@ https://leetcode.com/u/mukul_parashar/
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0042-trapping-rain-water) |
@@ -50,6 +51,7 @@ https://leetcode.com/u/mukul_parashar/
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -130,4 +132,8 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
