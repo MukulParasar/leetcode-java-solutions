@@ -2,25 +2,40 @@ class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int n1 = nums1.length, n2 = nums2.length;
         int n = n1 + n2;
-        int[] nums3 = new int[n];
-        int i = 0, j = 0, k = 0;
+        int i = 0, j = 0;
+        int ind2 = n / 2;
+        int ind1 = ind2 - 1;
+        int count = 0;
+        int ind1El = -1, ind2El = -1;
         while (i < n1 && j < n2) {
             if (nums1[i] < nums2[j]) {
-                nums3[k++] = nums1[i++];
+                if (count == ind1) ind1El = nums1[i];
+                if (count == ind2) ind2El = nums1[i];
+                count++;
+                i++;
             } else {
-                nums3[k++] = nums2[j++];
+                if (count == ind1) ind1El = nums2[j];
+                if (count == ind2) ind2El = nums2[j];
+                count++;
+                j++;
             }
         }
         while (i < n1) {
-            nums3[k++] = nums1[i++];
+            if (count == ind1) ind1El = nums1[i];
+            if (count == ind2) ind2El = nums1[i];
+            count++;
+            i++;
         }
         while (j < n2) {
-            nums3[k++] = nums2[j++];
+            if (count == ind1) ind1El = nums2[j];
+            if (count == ind2) ind2El = nums2[j];
+            count++;
+            j++;
         }
         if (n % 2 == 1) {
-            return nums3[n / 2];
+            return ind2El;
         } else {
-            return (double) (((double) (nums3[n / 2]) + (double) (nums3[n / 2 - 1])) / 2.0);
+            return (double) ((double) (ind1El + ind2El)) / 2.0;
         }
     }
 }
