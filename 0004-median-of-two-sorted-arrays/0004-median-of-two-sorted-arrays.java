@@ -27,10 +27,10 @@ class Solution {
                     return (double) (Math.max(l1, l2) + Math.min(r1, r2)) / 2.0;
                 }
             }
-            else if (l1 > r2) {
-                end = mid1 - 1;
-            } else {      // (l2 > r1)
+            else if (l2 > r1) {
                 start = mid1 + 1;
+            } else {      // (l1 > r2)
+                end = mid1 - 1;
             }
         }
         return 0;
