@@ -42,6 +42,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0042-trapping-rain-water](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1480-running-sum-of-1d-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1672-richest-customer-wealth) |
@@ -59,6 +60,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0374-guess-number-higher-or-lower](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0441-arranging-coins) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
