@@ -4,6 +4,7 @@ class Solution {
         int end = nums.length - 1;
         while (start < end) {
             int mid = start + (end - start) / 2;
+            // checking for each (start, mid, end)
             if (mid < nums.length - 1 && nums[mid] > nums[mid + 1]) {
                 return nums[mid + 1];
             }
@@ -17,6 +18,7 @@ class Solution {
                 return nums[end];
             }
 
+            // changing indexes(start, mid, end) to reach to more nearer to the minimum and finally to the minimum element
             if (nums[start] < nums[mid]) {
                 start = mid + 1;
             } else if (nums[start] > nums[mid]){
