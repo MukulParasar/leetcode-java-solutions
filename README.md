@@ -47,6 +47,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1480-running-sum-of-1d-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -68,6 +69,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
@@ -98,6 +100,7 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0441-arranging-coins) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -138,6 +141,7 @@ https://leetcode.com/u/mukul_parashar/
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -153,4 +157,12 @@ https://leetcode.com/u/mukul_parashar/
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
