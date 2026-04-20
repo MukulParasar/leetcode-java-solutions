@@ -125,6 +125,7 @@ https://leetcode.com/u/mukul_parashar/
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1816-truncate-sentence](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1816-truncate-sentence) |
 ## Recursion
 |  |
@@ -160,9 +161,14 @@ https://leetcode.com/u/mukul_parashar/
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
