@@ -14,11 +14,7 @@ class Solution {
                     start = mid + 1;
                 }
             }
-            if (end >= 0 && grid[i][end] < 0) {
-                neg += m - end;
-            } else if (start < m && grid[i][start] < 0) {
-                neg += m - start;
-            }
+            neg += m - start;
         }
         return neg;
     }
