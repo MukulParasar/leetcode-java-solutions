@@ -51,6 +51,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1672-richest-customer-wealth) |
@@ -76,6 +77,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +112,7 @@ https://leetcode.com/u/mukul_parashar/
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
