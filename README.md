@@ -49,6 +49,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0240-search-a-2d-matrix-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -78,6 +79,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0441-arranging-coins) |
@@ -124,6 +126,7 @@ https://leetcode.com/u/mukul_parashar/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
@@ -154,6 +157,7 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0905-sort-array-by-parity) |
@@ -177,6 +181,7 @@ https://leetcode.com/u/mukul_parashar/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0645-set-mismatch) |
