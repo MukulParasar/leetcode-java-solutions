@@ -15,7 +15,7 @@ I consistently practice Data Structures and Algorithms to improve problem-solvin
 ---
 
 ## 📊 Progress
-- ⭐ Problems Solved: 80+
+- ⭐ Problems Solved: 100+
 - 🔥 Current Focus: DSA in Java
 
 ---
