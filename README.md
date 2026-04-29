@@ -36,6 +36,7 @@ https://leetcode.com/u/mukul_parashar/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -180,6 +181,7 @@ https://leetcode.com/u/mukul_parashar/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
