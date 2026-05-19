@@ -68,6 +68,7 @@ https://leetcode.com/u/mukul_parashar/
 | [1816-truncate-sentence](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ https://leetcode.com/u/mukul_parashar/
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,11 +106,13 @@ https://leetcode.com/u/mukul_parashar/
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Interactive
 |  |
 | ------- |
@@ -177,6 +181,7 @@ https://leetcode.com/u/mukul_parashar/
 | [1346-check-if-n-and-its-double-exist](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting Sort
 |  |
 | ------- |
@@ -213,4 +218,5 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
