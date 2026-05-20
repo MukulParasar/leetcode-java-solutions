@@ -157,6 +157,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0003-longest-substring-without-repeating-characters](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
+| [1108-defanging-an-ip-address](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1816-truncate-sentence) |
 ## Recursion
 |  |
