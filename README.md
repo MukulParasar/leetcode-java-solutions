@@ -160,6 +160,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0125-valid-palindrome](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1816-truncate-sentence) |
 ## Recursion
 |  |
