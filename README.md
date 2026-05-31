@@ -165,6 +165,7 @@ https://leetcode.com/u/mukul_parashar/
 | [1528-shuffle-string](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1859-sorting-the-sentence) |
@@ -196,6 +197,7 @@ https://leetcode.com/u/mukul_parashar/
 ## Counting Sort
 |  |
 | ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1833-maximum-ice-cream-bars](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Game Theory
 |  |
