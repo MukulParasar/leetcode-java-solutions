@@ -103,6 +103,7 @@ https://leetcode.com/u/mukul_parashar/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -128,6 +129,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0013-roman-to-integer](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Matrix
@@ -172,6 +174,7 @@ https://leetcode.com/u/mukul_parashar/
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -232,4 +235,8 @@ https://leetcode.com/u/mukul_parashar/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
