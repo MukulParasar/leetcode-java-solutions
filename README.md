@@ -249,6 +249,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0098-validate-binary-search-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -264,6 +265,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0098-validate-binary-search-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -273,5 +275,6 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
