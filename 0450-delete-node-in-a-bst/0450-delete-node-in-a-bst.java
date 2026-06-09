@@ -25,8 +25,8 @@ class Solution {
             else if (root.right == null) return root.left;
             else {
                 // it has two children
-                root.val = findSuccessor(root.right);
-                root.right = deleteNode(root.right, root.val);
+                root.val = findSuccessor(root.left);
+                root.left = deleteNode(root.left, root.val);
             }
         }
         return root;
@@ -36,7 +36,7 @@ class Solution {
         TreeNode temp = root;
         while (temp != null) {
             result = temp.val;
-            temp = temp.left;
+            temp = temp.right;
         }
         return result;
     }
