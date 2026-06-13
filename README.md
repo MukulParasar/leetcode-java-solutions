@@ -260,6 +260,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0098-validate-binary-search-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0547-number-of-provinces](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -276,6 +277,7 @@ https://leetcode.com/u/mukul_parashar/
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -283,4 +285,12 @@ https://leetcode.com/u/mukul_parashar/
 | [0450-delete-node-in-a-bst](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
