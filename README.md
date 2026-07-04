@@ -43,6 +43,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0035-search-insert-position](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -105,6 +106,7 @@ https://leetcode.com/u/mukul_parashar/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
@@ -140,6 +142,7 @@ https://leetcode.com/u/mukul_parashar/
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0994-rotting-oranges) |
