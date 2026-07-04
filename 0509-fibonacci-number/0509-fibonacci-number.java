@@ -4,7 +4,7 @@ class Solution {
         int[] nums = new int[n + 1];
         Arrays.fill(nums, -1);
         nums[0] = 0;
-        if (nums.length > 1) nums[1] = 1;
+        if (n > 0) nums[1] = 1;
         return fib(n, nums);
     }
     private int fib(int n, int[] nums) {
