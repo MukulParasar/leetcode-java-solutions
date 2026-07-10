@@ -112,6 +112,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0198-house-robber](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +179,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0125-valid-palindrome](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1143-longest-common-subsequence) |
 | [1528-shuffle-string](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1678-goal-parser-interpretation) |
