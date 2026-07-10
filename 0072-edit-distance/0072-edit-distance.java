@@ -8,8 +8,11 @@ class Solution {
     private int helper(int i, int j, String word1, String word2, int[][] op) {
         if (i < 0) return j + 1;
         if (j < 0) return i + 1;
+        // using dp(memoization(using memory in recursion for reducing steps(time complexity)))
         if (op[i][j] != -1) return op[i][j];
+        // if equal -> no operation(only call for checking another characters)
         if (word1.charAt(i) == word2.charAt(j)) return op[i][j] = helper(i - 1, j - 1, word1, word2, op);
+        // if not equal -> either delete or insert or replace -> min operations if (delete or insert or replace) is choosen
         else return op[i][j] = 1 + Math.min(helper(i - 1, j, word1, word2, op), Math.min(helper(i, j - 1, word1, word2, op), helper(i - 1, j - 1, word1, word2, op)));
     }
 }
