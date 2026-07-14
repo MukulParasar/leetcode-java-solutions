@@ -179,6 +179,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0058-length-of-last-word](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0709-to-lower-case](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1143-longest-common-subsequence) |
@@ -236,6 +237,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0003-longest-substring-without-repeating-characters](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0041-first-missing-positive) |
+| [0208-implement-trie-prefix-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -324,4 +326,12 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
