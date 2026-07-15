@@ -60,6 +60,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0704-binary-search) |
+| [0720-longest-word-in-dictionary](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0994-rotting-oranges) |
@@ -181,6 +182,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0125-valid-palindrome](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0709-to-lower-case](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0709-to-lower-case) |
+| [0720-longest-word-in-dictionary](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1108-defanging-an-ip-address](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1143-longest-common-subsequence) |
 | [1528-shuffle-string](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1528-shuffle-string) |
@@ -210,6 +212,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0349-intersection-of-two-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0905-sort-array-by-parity](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -243,6 +246,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0442-find-all-duplicates-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
@@ -334,4 +338,5 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0720-longest-word-in-dictionary](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
