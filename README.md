@@ -145,6 +145,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0509-fibonacci-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -341,4 +342,8 @@ https://leetcode.com/u/mukul_parashar/
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0720-longest-word-in-dictionary](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0720-longest-word-in-dictionary) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
