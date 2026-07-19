@@ -161,6 +161,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0042-trapping-rain-water](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -183,6 +184,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0072-edit-distance](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0344-reverse-string](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1108-defanging-an-ip-address](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1108-defanging-an-ip-address) |
