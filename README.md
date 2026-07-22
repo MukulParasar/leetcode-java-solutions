@@ -143,6 +143,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0062-unique-paths](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -204,6 +205,7 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
