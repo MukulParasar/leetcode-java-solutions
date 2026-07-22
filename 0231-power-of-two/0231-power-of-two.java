@@ -7,8 +7,7 @@ class Solution {
     }
     private boolean helper(int n, int r) {
         if (r == 1) return false;
-        if (n == 2 && r == 0) return true;
-        if (n <= 1) return false;
+        if (n == 2) return true;
         return helper(n / 2, n % 2);
     }
 }
