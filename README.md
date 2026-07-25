@@ -152,6 +152,7 @@ https://leetcode.com/u/mukul_parashar/
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
@@ -236,6 +237,7 @@ https://leetcode.com/u/mukul_parashar/
 | [1833-maximum-ice-cream-bars](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1859-sorting-the-sentence) |
+| [3536-maximum-product-of-two-digits](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
