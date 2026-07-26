@@ -59,6 +59,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0720-longest-word-in-dictionary) |
@@ -149,6 +150,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0342-power-of-four](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -229,6 +231,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0905-sort-array-by-parity](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0905-sort-array-by-parity) |
