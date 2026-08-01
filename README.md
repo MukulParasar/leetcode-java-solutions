@@ -60,6 +60,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0566-reshape-the-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0704-binary-search) |
@@ -165,6 +166,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0063-unique-paths-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0566-reshape-the-matrix) |
 | [0994-rotting-oranges](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -226,6 +228,7 @@ https://leetcode.com/u/mukul_parashar/
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sorting
