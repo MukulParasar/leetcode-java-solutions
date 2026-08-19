@@ -72,6 +72,7 @@ https://leetcode.com/u/mukul_parashar/
 | [1260-shift-2d-grid](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1528-shuffle-string) |
@@ -125,6 +126,7 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0410-split-array-largest-sum) |
+| [1386-cinema-seat-allocation](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -277,6 +279,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0645-set-mismatch](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1386-cinema-seat-allocation](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -287,6 +290,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0342-power-of-four](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 ## Sliding Window
 |  |
 | ------- |
