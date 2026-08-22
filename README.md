@@ -84,6 +84,7 @@ https://leetcode.com/u/mukul_parashar/
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
 |  |
@@ -237,6 +238,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0566-reshape-the-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
 | ------- |
