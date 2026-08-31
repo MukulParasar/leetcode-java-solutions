@@ -1,17 +1,15 @@
 class Solution {
     public int countSpecialIntegers(int[] nums) {
-        List<Integer> list = new ArrayList<>();
-        List<Integer> prev = new ArrayList<>();
-        list.add(nums[0]);
+        Set<Integer> set = new HashSet<>();
+        Set<Integer> set2 = new HashSet<>();
+        set.add(nums[0]);
+        set2.add(nums[0]);
         for (int i = 1; i < nums.length; i++) {
-            if (nums[i] != nums[i - 1] && list.contains(nums[i])) {
-                prev.add(nums[i]);
-                list.remove(Integer.valueOf(nums[i]));
-            }
-            else if (!list.contains(nums[i]) && !prev.contains(nums[i])) {
-                list.add(nums[i]);
+            if (nums[i] != nums[i - 1]) {
+                if (set.add(nums[i])) set2.add(nums[i]);
+                else set2.remove(nums[i]);
             }
         }
-        return list.size();
+        return set2.size();
     }
 }
