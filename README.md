@@ -278,6 +278,7 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -300,6 +301,7 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
