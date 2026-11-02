@@ -69,6 +69,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0704-binary-search](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0994-rotting-oranges) |
@@ -181,6 +182,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0074-search-a-2d-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -196,6 +198,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0287-find-the-duplicate-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Stack
@@ -247,6 +250,7 @@ https://leetcode.com/u/mukul_parashar/
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -309,6 +313,7 @@ https://leetcode.com/u/mukul_parashar/
 | [0287-find-the-duplicate-number](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MukulParasar/leetcode-java-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
