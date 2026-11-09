@@ -7,11 +7,9 @@ class Solution {
             return steps;
         }
         if ((num & 1) == 0) {
-            num /= 2;
+            return helper(num / 2, steps + 1);
         } else {
-            num--;
+            return helper(num - 1, steps + 1);
         }
-        steps++;
-        return helper(num, steps);
     }
 }
