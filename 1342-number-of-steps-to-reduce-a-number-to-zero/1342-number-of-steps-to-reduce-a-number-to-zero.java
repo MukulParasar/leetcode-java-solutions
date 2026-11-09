@@ -3,13 +3,15 @@ class Solution {
         return helper(num, 0);
     }
     int helper(int num, int steps) {
-        if (num == 0) return steps;
-        if (num % 2 == 1) {
-            num -= 1;
-        } else {
+        if (num == 0) {
+            return steps;
+        }
+        if ((num & 1) == 0) {
             num /= 2;
+        } else {
+            num--;
         }
         steps++;
-        return steps = helper(num, steps);
+        return helper(num, steps);
     }
 }
